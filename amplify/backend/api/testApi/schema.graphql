@@ -1,0 +1,4 @@
+type Haiku @model {
+  id: ID!
+  content: String!
+}
